@@ -1,9 +1,11 @@
 # Crudzin
 
-## How to run this project?
+## How to execute this project?
 
 ```sh
-set FLASK_APP=app
+set FLASK_APP=crudzin
 set FLASK_ENV=Development
 set FLASK_DEBUG=True
+
+flask run
 ```
