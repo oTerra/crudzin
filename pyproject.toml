@@ -11,6 +11,8 @@ python = "^3.12"
 
 [tool.poetry.group.dev.dependencies]
 flask = "^3.0.2"
+requests = "^2.31.0"
+ipdb = "^0.13.13"
 
 [build-system]
 requires = ["poetry-core"]
